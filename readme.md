@@ -1,2 +1,1 @@
-  <h2> Azam IT - Inventory Management System </h2>
- 
+# AZAM I.T. - Inventory Management System
